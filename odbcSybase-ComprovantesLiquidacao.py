@@ -40,6 +40,7 @@ cursor.execute(" select chavDsk1Comprovante = dctos_fiscais.ano_exerc,"
 " where dctos_fiscais.ano_exerc = 2020 and"
 " dctos_fiscais.i_entidades = 8")
 row = cursor.fetchall()
+
 sucess = 0
 error = 0
 for x in row:
