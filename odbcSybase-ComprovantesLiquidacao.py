@@ -7,7 +7,7 @@ port = 'xxxxx'
 database = 'xxxx'
 server = 'xxxx'
 username = 'xxxx'
-password = 'xxxx'
+password = 'xxxxx'
 
 ##test = pyodbc.drivers()
 
