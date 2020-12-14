@@ -3,7 +3,7 @@ import requests
 import pyodbc
 
 ip = '192.168.104.44'
-port = 'xxxxx'
+port = 'Informe  a porta'
 database = 'xxxx'
 server = 'xxxx'
 username = 'xxxx'
