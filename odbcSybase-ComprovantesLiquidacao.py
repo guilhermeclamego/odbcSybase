@@ -4,15 +4,14 @@ import pyodbc
 
 ip = '192.168.104.44'
 port = 'Informe  a porta'
-database = 'xxxx'
-server = 'xxxx'
-username = 'xxxx'
-password = 'xxxxx'
+database = 'Informe o Database'
+server = 'Informe o server'
+username = 'Informe o login'
+password = 'Informe a senha'
 
-##test = pyodbc.drivers()
 
 url = "https://contabil-sl.cloud.betha.com.br/contabil/service-layer/v2/api/comprovantes-liquidacoes"
-token = "xxxxx"
+token = "Informe o token"
 headers = {
     'Content-Type': 'application/json',
     'Authorization': "Bearer " + token
