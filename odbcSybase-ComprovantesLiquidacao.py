@@ -43,7 +43,7 @@ row = cursor.fetchall()
 
 sucess = 0
 error = 0
-for x in row:
+for x in row: 
     objectJson = {
         "idIntegracao": "migracao",
         "content": {
