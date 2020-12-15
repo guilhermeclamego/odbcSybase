@@ -2,7 +2,7 @@ import json
 import requests
 import pyodbc
 
-ip = '192.168.104.44'
+ip = '192.168.104.40'
 port = 'Informe  a porta'
 database = 'Informe o Database'
 server = 'Informe o server'
